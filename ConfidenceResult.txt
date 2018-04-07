@@ -1,0 +1,92 @@
+chicken -> rice,1.0
+chicken -> beer,1.0
+rice -> beer,1.0
+apple rice -> beer,1.0
+chicken -> rice beer,1.0
+chicken beer -> rice,1.0
+rice chicken -> beer,1.0
+apple chicken -> beer,1.0
+milk chicken -> rice,1.0
+apple chicken -> rice,1.0
+milk chicken -> beer,1.0
+milk rice -> beer,1.0
+milk chicken -> rice beer,1.0
+milk rice chicken -> beer,1.0
+beer milk chicken -> rice,1.0
+apple chicken -> rice beer,1.0
+apple rice chicken -> beer,1.0
+apple beer chicken -> rice,1.0
+milk -> beer,0.75
+apple -> beer,0.75
+beer -> rice,0.6666666666666666
+apple beer -> rice,0.6666666666666666
+milk beer -> rice,0.6666666666666666
+apple -> rice,0.5
+rice -> apple,0.5
+beer -> milk,0.5
+chicken -> apple,0.5
+rice -> chicken,0.5
+chicken -> milk,0.5
+milk -> rice,0.5
+rice -> milk,0.5
+beer -> apple,0.5
+mango -> apple,0.5
+mango -> milk,0.5
+apple -> rice beer,0.5
+rice -> apple beer,0.5
+rice beer -> apple,0.5
+rice -> chicken beer,0.5
+rice beer -> chicken,0.5
+chicken -> apple beer,0.5
+chicken beer -> apple,0.5
+chicken -> milk rice,0.5
+milk rice -> chicken,0.5
+rice chicken -> milk,0.5
+chicken -> apple rice,0.5
+apple rice -> chicken,0.5
+rice chicken -> apple,0.5
+chicken -> milk beer,0.5
+beer chicken -> milk,0.5
+milk -> rice beer,0.5
+rice -> milk beer,0.5
+rice beer -> milk,0.5
+chicken -> milk rice beer,0.5
+milk rice -> beer chicken,0.5
+rice chicken -> milk beer,0.5
+beer chicken -> milk rice,0.5
+milk rice beer -> chicken,0.5
+beer rice chicken -> milk,0.5
+chicken -> apple rice beer,0.5
+apple rice -> beer chicken,0.5
+rice chicken -> apple beer,0.5
+beer chicken -> apple rice,0.5
+apple rice beer -> chicken,0.5
+beer rice chicken -> apple,0.5
+beer -> chicken,0.3333333333333333
+beer -> apple rice,0.3333333333333333
+beer -> rice chicken,0.3333333333333333
+apple beer -> chicken,0.3333333333333333
+milk beer -> chicken,0.3333333333333333
+beer -> milk rice,0.3333333333333333
+milk beer -> rice chicken,0.3333333333333333
+apple beer -> rice chicken,0.3333333333333333
+apple -> chicken,0.25
+milk -> chicken,0.25
+apple -> mango,0.25
+milk -> mango,0.25
+apple -> chicken beer,0.25
+milk -> rice chicken,0.25
+rice -> milk chicken,0.25
+apple -> rice chicken,0.25
+rice -> apple chicken,0.25
+milk -> beer chicken,0.25
+milk -> beer rice chicken,0.25
+rice -> beer milk chicken,0.25
+rice beer -> milk chicken,0.25
+apple -> beer rice chicken,0.25
+rice -> apple beer chicken,0.25
+rice beer -> apple chicken,0.25
+beer -> apple chicken,0.16666666666666666
+beer -> milk chicken,0.16666666666666666
+beer -> milk rice chicken,0.16666666666666666
+beer -> apple rice chicken,0.16666666666666666

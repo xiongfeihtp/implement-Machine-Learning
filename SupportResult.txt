@@ -1,0 +1,26 @@
+item: beer, 0.75
+item: rice, 0.5
+item: milk, 0.5
+item: apple, 0.5
+item: rice beer, 0.5
+item: milk beer, 0.375
+item: apple beer, 0.375
+item: chicken, 0.25
+item: mango, 0.25
+item: apple rice, 0.25
+item: rice chicken, 0.25
+item: beer chicken, 0.25
+item: milk rice, 0.25
+item: apple rice beer, 0.25
+item: beer rice chicken, 0.25
+item: milk rice beer, 0.25
+item: apple chicken, 0.125
+item: milk chicken, 0.125
+item: apple mango, 0.125
+item: mango milk, 0.125
+item: apple beer chicken, 0.125
+item: milk rice chicken, 0.125
+item: apple rice chicken, 0.125
+item: milk chicken beer, 0.125
+item: milk chicken rice beer, 0.125
+item: apple chicken rice beer, 0.125
